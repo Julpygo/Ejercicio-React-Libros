@@ -1,0 +1,6 @@
+.libros {
+    background-color:darkgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

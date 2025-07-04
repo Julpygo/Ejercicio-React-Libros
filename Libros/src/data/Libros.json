@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "imagen": "George-1984.jpg",
+    "generos": ["Distopía/", "Ciencia ficción"],
+    "introduccion": "La novela narra la historia de siete generaciones de la familia Buendía en el pueblo ficticio de Macondo, explorando temas como la soledad, el destino y la historia cíclica. La obra es conocida por su rica imaginación y su profunda reflexión sobre la condición humana. Además, se considera una de las novelas más importantes de la literatura hispanoamericana.",
+    "linkBiografia": "https://es.wikipedia.org/wiki/George_Orwell"
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "imagen": "100añosDeSoledad.jpg",
+    "generos": ["Realismo mágico/", "Literatura latinoamericana"],
+    "introduccion": "La novela narra la historia de siete generaciones de la familia Buendía en el pueblo ficticio de Macondo, explorando temas como la soledad, el destino y la historia cíclica. La obra es conocida por su rica imaginación y su profunda reflexión sobre la condición humana. Además, se considera una de las novelas más importantes de la literatura hispanoamericana.",
+    "linkBiografia": "https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+  },
+  {
+    "titulo": "El maestro de la fuga",
+    "autor": "Jonathan Freedland",
+    "imagen": "MaestroDeLaFuga.jpg",
+    "generos": ["Novela histórica/", "Biografía"],
+    "introduccion": "En abril de 1944, Rudolf Vrba se convirtió uno de los primeros judíos que escapó de Auschwitz. Contra todo pronóstico, tras esquivar por poco las balas alemanas, él y su compañero de fuga escalaron montañas y cruzaron ríos para alcanzar la libertad. Vrba quería advertir a los últimos judíos de Europa del destino que les esperaba al final de la vía férrea.",
+    "linkBiografia": "https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+  },
+  {
+    "titulo": "No nacimos pa’ semilla",
+    "autor": "Alonso Salazar Jaramillo",
+    "imagen": "NoNacimosPaSemilla.jpg",
+    "generos": ["Periodismo de investigación/","sociología urbana"],
+    "introduccion": "Publicada originalmente en 1990, esta obra es un clásico del periodismo narrativo colombiano. A través de relatos verídicos de jóvenes vinculados a bandas y al sicariato en Medellín, Salazar revela las raíces históricas, culturales y económicas que alimentan la violencia urbana.",
+    "linkBiografia": "https://es.wikipedia.org/wiki/Alonso_Salazar?utm_source=chatgpt.com"
+  },
+  {
+    "titulo": "Los 7 hábitos de la gente altamente efectiva",
+    "autor": "Stephen R. Covey",
+    "imagen": "7habitos.jpg",
+    "generos": ["Autoayuda y desarrollo personal/","Management y liderazgo"],
+    "introduccion": "Publicada por primera vez en 1989, esta obra se ha convertido en un clásico del desarrollo personal y empresarial, con más de 25 millones de copias vendidas y traducciones a más de 52 idiomas.",
+    "linkBiografia": "https://de.wikipedia.org/wiki/Stephen_R._Covey?utm_source=chatgpt.com"
+  },
+  {
+    "titulo": "Caballo de Troya",
+    "autor": "Juan José Benítez López",
+    "imagen": "CaballoDeTroya.jpg",
+    "generos": ["Ciencia ficción histórica/","Novela de viajes en el tiempo"],
+    "introduccion": "Publicada en 1984, esta obra propone que un piloto de la Fuerza Aérea de EE.UU. viaja al año 30 d.C. para documentar en primera persona la vida y pasión de Jesús de Nazaret como parte de un proyecto militar clandestino llamado Operación Caballo de Troya",
+    "linkBiografia": "https://es.wikipedia.org/wiki/J._J._Ben%C3%ADtez?utm_source=chatgpt.com"
+  }
+]
