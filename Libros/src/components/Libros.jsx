@@ -15,9 +15,9 @@ function Libros(){
             <h4 className="text">{libros.length} libros favoritos</h4><br></br>
             <div className="row">
                 {libros.map((libro,i)=>(
-                    <LibroCard
-                    key ={i}
-                    libro = {libro}/>
+                    <div className="col-md-4" key={i}>
+                        <LibroCard libro={libro} />
+                    </div>
                 ))}
             </div>
         </section>
